@@ -41,12 +41,11 @@ Decide the value for each cases depend on the situation list above. Keep changin
 
 ## Game Process (several steps example, not continual steps)
 
+![](README_IMG/game_process.png)
 
+## Self Test
 
-
-
-
-![](README_IMG/8puzzel.png)
+![](README_IMG/win_result.png)
 
 ## License
 
