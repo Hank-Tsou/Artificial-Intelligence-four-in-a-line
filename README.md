@@ -11,7 +11,7 @@ File description:
 
 ## Approach
 
-### a. Start the program
+#### a. Start the program
 - The program will ask the user for giving the time limit and the depth for the minimax algorithm with alpha-beta pruning.
 - The user can decide who go first, Computer (AI) or Opponent (Human).
 
@@ -39,7 +39,7 @@ The evaluation function consider all the cases include:
 Decide the value for each cases depend on the situation list above. Keep changing the value for each cases to see which value works better in the games.
 
 
-
+## Game Process (several steps example, not continual steps)
 
 
 
