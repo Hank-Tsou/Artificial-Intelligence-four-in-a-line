@@ -1,4 +1,7 @@
 # Artificial Intelligence Game: 4-in-a-line
+```
+Algorithm: Minimax algorithm with alpha-beta pruning
+```
 
 ```
 File description:
